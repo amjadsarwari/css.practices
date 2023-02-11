@@ -1,0 +1,44 @@
+body {
+    background-image:url('image/stars.jpg')
+}
+
+#ids{
+    border-radius: 10px;
+    border-color: cyan;
+    margin: 2px;
+    padding: 3px;
+}
+#password{
+    border-radius: 10px;
+    border-color: cyan;
+    margin: 2px;
+    padding: 3px;
+}
+#singin{
+    border-radius: 20px;
+    padding: 12px;
+    background-color: cornflowerblue;
+    color: white;
+}
+#singup{
+    border-radius: 20px;
+    padding: 12px;
+    background-color: cornflowerblue;
+    color: white;
+}
+#help{
+    border-radius: 20px;
+    padding: 12px;
+    background-color: cornflowerblue;
+    color: white;
+}
+#div{
+    
+    padding-left: 40%;
+    padding-top: 15%;
+}
+#h{
+    text-align: center;
+    height: 50px;
+    width: 50px;
+}

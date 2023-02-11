@@ -1,0 +1,67 @@
+body{
+  align-items: center;
+    background-color: cadetblue;
+}
+#name{
+    border-radius: 10px;
+    border-color: cyan;
+    margin: 2px;
+    padding: 3px;
+    
+}
+
+#id{
+    border-radius: 10px;
+    border-color: cyan;
+    margin: 2px;
+    padding: 3px;
+}
+
+#passwd{
+    border-radius: 10px;
+    border-color: cyan;
+    margin: 2px;
+    padding: 3px;
+}
+#email{
+    border-radius: 10px;
+    border-color: cyan;
+    margin: 2px;
+    padding: 3px;
+}
+#date{
+    border-radius: 10px;
+    border-color: cyan;
+    margin: 2px;
+    padding: 3px;
+}
+#number{
+    border-radius: 10px;
+    border-color: cyan;
+    margin: 2px;
+    padding: 3px;
+}
+#country{
+    border-radius: 10px;
+    border-color: cyan;
+    margin: 2px;
+    padding: 3px;
+    width: 192px;
+}
+#state{
+    border-radius: 10px;
+    border-color: cyan;
+    margin: 2px;
+    padding: 3px;
+}
+#button{
+    border-radius: 20px;
+    padding: 12px;
+    background-color: cornflowerblue;
+    color: white;
+}
+#button :hover{
+    background-color: cornflowerblue;
+    color: white;
+}
+
